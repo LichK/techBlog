@@ -12,7 +12,7 @@
 4. `foreach keySet`
 
 - 如果需要遍历Key-value，使用`for iterator entrySet`方式，且支持entry的删除；
-- 如果仅遍历Key，使用`for each keySet`
+- 如果仅遍历Key，使用`for each keySet`。
 
 ## 具体实现
 ### for iterator entrySet
